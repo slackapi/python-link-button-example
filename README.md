@@ -157,8 +157,10 @@ This simple flow using link buttons and deep linking enables your app’s users 
 
 To run this example, clone the repository or copy the code from `example.py`, and run:
 
+```
 export SLACK_API_TOKEN=”<YOUR SLACK BOT TOKEN>” 
 python link-buttoms.py
+```
 
 Need help? Find us in the [Bot Developer Hangout](http://dev4slack.xoxco.com/) [#slack-api channel](https://dev4slack.slack.com/messages/slack-api/), reach out on [Twitter](https://twitter.com/slackapi), or [create an issue](https://github.com/slackapi/python-link-button-example/issues) on GitHub.
 

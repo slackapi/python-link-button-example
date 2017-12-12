@@ -1,4 +1,4 @@
-## Out and back again
+## [Out and back again](https://medium.com/slack-developer-blog/out-and-back-again-6b2f3c84f484)
 
 #### Using link buttons and deep linking for a seamless flow between your service and Slack
 
